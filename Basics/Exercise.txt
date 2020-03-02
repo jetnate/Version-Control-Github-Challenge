@@ -1,0 +1,5 @@
+1.The mac terminal is a command line system that assists in taking control of the operating system and make changes. You can open applications throught the terminal, create files, and make directories. The terminal was used before visual interfaces to navigate a computer.
+
+2.The difference between Git and Github is that Git lets you manage and track your code history for projects. Github is a cloud based hosting service that lets you manage repositories.
+
+3. Github is used as a cloud based service that makes it easy to contribute to open-source projects. It is popular now for employers to ask to see your github to showcase your past projects. Within the workspace, people use Github for different integration options.
